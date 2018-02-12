@@ -1,11 +1,8 @@
-==============================
-      WIN32 五子棋小游戏
-==============================
-
-本程序是用的Visul Studio 2013编译
-实现简单的AI，可以实现人机对战，对于
-编译过程中遇到什么问题，或者程序有什
-么疑惑的地方，或者程序中有什么错误的
-地方都可以联系我！如果你愿意可以为程
-序添加其他的功能！写的不好，勿喷！
-联系方式：1441071540@qq.com
+WIN32 Gobang games
+This program is compiled with Visul Studio 2013
+The realization of a simple AI can achieve man-machine combat.
+What problems are encountered in the compilation process, or what the programs have
+Where is the doubt, or what's wrong in the program
+You can contact me everywhere! If you are willing to do it
+Add other functions in order! Do not write well, do not spray!
+Contact: 1441071540@qq.com
